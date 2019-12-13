@@ -18,6 +18,7 @@ optional arguments:
                         Password of mail account
 
 Input json file must be like this:
+
 {
     "player.one@mail.com": "Player One",
     "player.two@mail.com": Player Two",
